@@ -1,4 +1,4 @@
-module halo-admin-go
+module github/ihalozhou/halo-admin-go
 
 go 1.19
 
